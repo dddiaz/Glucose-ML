@@ -1,0 +1,1 @@
+A project to explore applying machine learning to blood glucose data
