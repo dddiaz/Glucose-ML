@@ -1,0 +1,1 @@
+mongoexport -h $MongoHostName:$MongoPort -d $MongoDatabase -c $MongoCollection -u $MongoUser -p $MongoPassword -o $MongoOutputCSVFile --csv -f $MongoFieldNames
